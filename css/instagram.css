@@ -1,0 +1,51 @@
+body {
+    font-family: 'Cursive', sans-serif;
+    background-color: #bc2a8d;
+    color: rgb(255, 255, 255); 
+    margin: 0;
+    padding: 0;
+}
+
+header h1 {
+    text-align: center; 
+}
+
+#app-details {
+    margin: 20px;
+    padding: 20px;
+    background-color: rgba(179, 9, 119, 0.8);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#app-details p {
+    font-size: 20px; 
+}
+
+
+#app-details ul {
+    list-style-type: none;
+    padding: 0;
+    font-size: 20px; 
+}
+
+#app-details ul li {
+    margin-bottom: 10px;
+}
+.header-logo {
+    width: 700px; 
+    height: auto; 
+    display: block;
+    margin: 0 auto;
+}
+footer {
+    margin-top: 20px;
+    text-align: center;
+}
+
+
+    .lien-insta a {
+        text-decoration: none; 
+        color: #fff; 
+    }
+    
